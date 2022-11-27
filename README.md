@@ -2,6 +2,7 @@
 
 # Dataset Explorer
 This project provides a proof of concept for incorporating SAS output into a Python-based web application using the Python package [SASPy](https://sassoftware.github.io/saspy/).
+https://github.com/sassoftware/saspy/blob/main/saspy/sascfg.py
 
 This application is intended to run and be accessed locally in debug mode.
 
